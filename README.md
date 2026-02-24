@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Bethina Alvernaz
 
-**`Análise de Dados | Fraude | Customer Experience`**
+**`Análise de Dados | Prevenção à Fraude | Customer Experience`**
 
 Me chamo Bethina Alvernaz, tenho 32 anos e sou de Vila Velha/ES. Tenho mais de 3 anos de experiência em **Customer Experience** em **fintech**, com foco em **Prevenção a Fraudes**, atuando na **análise de transações, identificação de padrões e investigação de comportamentos suspeitos**.
 Atualmente, faço **tecnólogo de Banco de Dados** na Descomplica e **venho me aprofundando em SQL, Power BI, Excel e métricas de negócio**, com foco em **transformar dados em insights para eficiência operacional, mitigação de riscos e melhoria da experiência do cliente**.
