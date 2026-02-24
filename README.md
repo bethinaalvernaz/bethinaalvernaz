@@ -11,7 +11,7 @@ Atualmente, faço tecnólogo de Banco de Dados na Descomplica e venho me aprofun
         <img 
             alt="LinkedIn" 
             title="LinkedIn" 
-            src="https://www.linkedin.com/in/bethinaalvernaz/"
+            src="[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"
         />
 
 ---
