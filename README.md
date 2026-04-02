@@ -38,6 +38,15 @@ Atualmente, curso **tecnólogo em Banco de Dados** na Descomplica e **venho me a
 
 <img 
     align="left" 
+    alt="Looker Studio"
+    title="Looker Studio" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/show/354012/looker-icon.svg"
+/>
+
+<img 
+    align="left" 
     alt="Excel"
     title="Excel" 
     width="30px" 
